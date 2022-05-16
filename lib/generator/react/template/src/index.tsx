@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import * as ReactDOM from 'react-dom';
 import App from './app';
 <%_ if (importCss) { _%>
